@@ -16,7 +16,7 @@ public class Bai2 {
 					System.out.println(
 							"1.	Giải phương trình bậc nhất.\n" 
 									+ "2.	Hiển thị câu chào.\n" 
-									+ "0.   	Thoát khỏi chương trình");
+									+ "0.   	Thoát khỏi chương trình.");
 					luachon = sc.nextInt();
 					sc.nextLine();
 					if (luachon == 2) {
